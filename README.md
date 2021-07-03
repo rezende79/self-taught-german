@@ -1,4 +1,25 @@
-# dw-learn-german
+# learn-german-for-developers
+
+Simple sentences are composed by: Pronoum + Verb + Predicate.
+
+Pronoums:
+
+Verbs:
+- Regelmäßige Verben (Regular Verbs)
+- Common regular verbs
+- werden
+- haben
+- sein
+- können
+- müssen
+- sollen
+- sagen
+- geben
+- kommen
+- wollen
+- machen
+- gehen
+- hei
 
 ## A1
 ### Numbers
