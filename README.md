@@ -13,9 +13,9 @@ So, why not learn every aspect of the German language by yourself?
 > - [Cologne](https://www.kvb.koeln/en/plans.html)
 > - [Frankfurt am Main](https://www.vgf-ffm.de/en/tickets-fares-plans/timetables/route-plans/)
 
-## Satzstruktur
+## Sentence Structure (Satzstruktur)
 
-Keep in mind that simple sentences in German are composed by:
+Keep in mind that simple sentences in German are composed by the following:
 
 - Present (Präsens): Pronoun + Verb + Predicate. _Ich heiße Marcos._
 - Mentioning Time: Point in time + Verb + Pronoum + Predicate. _Morgen gehe ich nach Berlin._ 
