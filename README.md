@@ -13,6 +13,16 @@ So, why not learn every aspect of the German language by yourself?
 > - [Cologne](https://www.kvb.koeln/en/plans.html)
 > - [Frankfurt am Main](https://www.vgf-ffm.de/en/tickets-fares-plans/timetables/route-plans/)
 
+## Useful external links
+
+> [Reading Training](https://lingua.com/german/reading/)
+> [Listening Training](https://lingua.com/german/listening/)
+> [Dictation Training](https://lingua.com/german/dictation/)
+> [A Foundation Course in Reading German](https://courses.dcs.wisc.edu/wp/readinggerman/)
+> [German inflection: words and verbs](https://www.verbformen.com/)
+
+Other links you will find inserted on content.
+
 ## Sentence Structure (Satzstruktur)
 
 Keep in mind that simple sentences in German are composed by the following:
