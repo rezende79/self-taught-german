@@ -48,12 +48,12 @@ https://courses.dcs.wisc.edu/wp/readinggerman/verbs-haben-and-sein/
 - *Wie* alt bist du? (How old are you?)
 - *Warum* gehst du nach Hause? (Why are you going home?)
 
-### Numbers
-### Weather
-### Termin
-### Imperative
-### Definite and indefinite articles
-### Possessive articles
-### Negation with “nicht“ or “kein“
-### Comparative and superlative
-### Prepositions
+## Numbers
+## Weather
+## Termin
+## Imperative
+## Definite and indefinite articles
+## Possessive articles
+## Negation with “nicht“ or “kein“
+## Comparative and superlative
+## Prepositions
