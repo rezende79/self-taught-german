@@ -23,7 +23,7 @@ Keep in mind that simple sentences in German are composed by the following:
 - Yes-No-Fragen: Verb + Pronoum + Predicate, in Yes/No questions. _Haben Sie Kinder?_
 
 ## Pronouns
-### [Personal pronouns](content/pronouns/personal-pronouns.md)
+### [Personal pronouns](/content/pronouns/personal-pronouns.md)
 ### [Possesive pronouns](content/pronouns/possesive-pronouns.md)
 
 ## Verbs
