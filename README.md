@@ -1,5 +1,18 @@
 # self-taught-german
 
+> No school or teacher will teach you how to get from point A to point B in and around Germany.
+
+You will have to understand by yourself the line and route network plans of each German city in order to survive in your new home country.
+
+So, why not learn every aspect of the German language by yourself?
+
+> 5 line and route network plans from Germany's largest cities to play
+> - [Berlin](https://sbahn.berlin/en/plan-a-journey/route-network/)
+> - [Hamburg](https://www.hvv.de/en/plans)
+> - [Munich](https://www.mvv-muenchen.de/en/maps-stations/maps/index.html)
+> - [Cologne](https://www.kvb.koeln/en/plans.html)
+> - [Frankfurt am Main](https://www.vgf-ffm.de/en/tickets-fares-plans/timetables/route-plans/)
+
 ## Satzstruktur
 
 Keep in mind that simple sentences are composed by:
