@@ -24,7 +24,7 @@ Keep in mind that simple sentences in German are composed by the following:
 
 ## Pronouns
 ### [Personal pronouns](content/pronouns/personal-pronouns.md)
-### [Possesive pronouns](content/pronouns/possesive-pronouns.md)
+### [Possesive pronouns](content/pronouns/possessive-pronouns.md)
 
 ## Verbs
 ### [Regular Verbs](content/verbs/beginner/regular-verbs.md)
