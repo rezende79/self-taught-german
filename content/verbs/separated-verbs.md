@@ -5,7 +5,7 @@ Verbs which comes with the _präfixe_ below and evolves the object relating it t
 Ich hole das Paket von der Post ab.\
 Subjekt (S) **hole** Direktes Objekt (O) von Indirektes Objekt (IO) **ab**.
 
-Ich **ziehe** nach Hamburg **an**.\
+Ich **ziehe** nach Hamburg **um**.\
 Subjekt (S) **verben** Prepositionen (P) + Objekt (O) **präfix**.
 
 - ab: off
