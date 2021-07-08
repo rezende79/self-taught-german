@@ -58,6 +58,14 @@ https://courses.dcs.wisc.edu/wp/readinggerman/verbs-haben-and-sein/
 - *Wie* alt bist du? (How old are you?)
 - *Warum* gehst du nach Hause? (Why are you going home?)
 
+## Konnektoren
+
+**A**ber: Ich habe deine Katze nicht gesehen, aber mein Nachbar hat deine Katze gesehen. "A, B." => B opposite of A
+**S**ondern: Ich habe keinen Hund, sondern einen Kater. "A, B" => A is false, B aggregate A and is true
+**U**nd: Ich habe einen Hund and einen Kater. "A und B" => A + B
+**D**enn: Ich habe keinen Hund, denn meine Wohnung ist zu klein. "A, B" => B justifies A
+**O**der Ich habe keinen Hund oder Kater. "A oder B"
+
 ## Numbers
 ## Weather
 ## Termin
