@@ -23,7 +23,9 @@ So, why not learn every aspect of the German language by yourself?
 
 Other links you will find inserted on content.
 
-## Sentence structure (Satzstruktur)
+## Sentence
+
+### Sentence structure (Satzstruktur)
 
 Keep in mind that simple sentences in German are composed by the following:
 
