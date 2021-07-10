@@ -15,10 +15,10 @@ So, why not learn every aspect of the German language by yourself?
 
 ## Useful external links
 
-> [Reading Training](https://lingua.com/german/reading/)
-> [Listening Training](https://lingua.com/german/listening/)
-> [Dictation Training](https://lingua.com/german/dictation/)
-> [A Foundation Course in Reading German](https://courses.dcs.wisc.edu/wp/readinggerman/)
+> [Reading Training](https://lingua.com/german/reading/)\
+> [Listening Training](https://lingua.com/german/listening/)\
+> [Dictation Training](https://lingua.com/german/dictation/)\
+> [A Foundation Course in Reading German](https://courses.dcs.wisc.edu/wp/readinggerman/)\
 > [German inflection: words and verbs](https://www.verbformen.com/)
 
 Other links you will find inserted on content.
