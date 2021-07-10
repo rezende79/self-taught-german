@@ -23,7 +23,7 @@ So, why not learn every aspect of the German language by yourself?
 
 Other links you will find inserted on content.
 
-## Sentence Structure (Satzstruktur)
+## Sentence structure (Satzstruktur)
 
 Keep in mind that simple sentences in German are composed by the following:
 
@@ -31,6 +31,10 @@ Keep in mind that simple sentences in German are composed by the following:
 - Mentioning Time: Point in time + Verb + Pronoum + Predicate. _Morgen gehe ich nach Berlin._ 
 - W-Fragen: W-Words + Verb + Pronoum + Predicate. _Wo wohnst du in Germany?_
 - Yes-No-Fragen: Verb + Pronoum + Predicate, in Yes/No questions. _Haben Sie Kinder?_
+
+### [Sentence clauses (Satzglieder)](content/sentence-parts.md)
+
+## [Grammatical Cases (Fälle)](content/cases/cases.md)
 
 ## Pronouns
 ### [Personal pronouns](content/pronouns/personal-pronouns.md)

@@ -1,13 +1,13 @@
 # Personalpronomen
 
-| Nominative | Akkusativ | Dativ |
-| ---------- | --------- | ----- |
-| ich | mich | mir |
-| du | dich | dir |
-| er | ihn | ihm |
-| sie | sie | ihr |
-| es | es | ihm |
-| wir | uns | uns |
-| ihr | euch | euch |
-| sie | sie | ihnen |
-| Sie | Sie | Ihnen |
+| Nominative | Akkusativ | Dativ | Genitiv |
+| ---------- | --------- | ----- | ------- |
+| ich | mich | mir | mein |
+| du | dich | dir | dein |
+| er | ihn | ihm | sein |
+| sie | sie | ihr | ihr |
+| es | es | ihm | sein |
+| wir | uns | uns | unser |
+| ihr | euch | euch | euer |
+| sie | sie | ihnen | ihr |
+| Sie | Sie | Ihnen | Ihr |
