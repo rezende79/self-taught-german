@@ -21,17 +21,12 @@ For the purpose of practicality, we will only see here the three main cases.
 
 The case of the subject of sentences.
 
-| Personalpronomen |
-| ---- |
-| ich |
-| du |
-| er |
-| sie | 
-| es |
-| wir |
-| ihr |
-| sie |
-| Sie |
+## Akkusativ
+
+What adds meaning to the action (verb)?
+
+> Das Mädchen sucht ihren Bruder.\
+> **Wen oder was sucht das Mädchen?** Ihren Bruder!
 
 ## Dativ
 
@@ -40,61 +35,29 @@ Who receives the action (verb)?
 > Das Auto gehört der Mutter.\
 > **Wem gehört das Auto?** Der Mutter!
 
-|  | Personalpronomen |
-| --- | ---------------- |
-| ich | mir |  
-| du | dir |
-| er | ihm |
-| sie | ihr |
-| es | ihm |
-| wir | uns |
-| ihr | euch |
-| sie | ihnen |
-| Sie | Ihnen |
+# Personalpronomen Tabelle
 
-## Akkusativ
-
-What adds meaning to the action (verb)?
-
-> Das Mädchen sucht ihren Bruder.\
-> **Wen oder was sucht das Mädchen?** Ihren Bruder!
-
-|  |  | Personalpronomen |
-| --- | --- | ---------------- |
-| ich | mir | mich |
-| du | dir | dich |
-| er | ihm | ihn |
-| sie | ihr | sie |
-| es | ihm | es |
+| Nominativ | Akkusativ | Dativ |
+| --------- | ----- | --------- |
+| ich | mich | mir |
+| du | dich | dir |
+| er | ihn | ihm |
+| sie | sie | ihr |
+| es | es | ihm |
 | wir | uns | uns |
 | ihr | euch | euch |
-| sie | ihnen | sie |
-| Sie | Ihnen | Sie |
+| sie | sie | ihnen |
+| Sie | Sie | Ihnen |
 
-## Maskulin
-
-| Nominativ | Akkusativ | Dativ |
-| --------- | --------- | ----- |
-| der Vater | **den** Vater | **dem** Vater |
-| ein Vater | **einen** Vater | **einem** Vater |
-
-## Feminin
+# Fälle Tabelle
 
 | Nominativ | Akkusativ | Dativ |
 | --------- | --------- | ----- |
-| die Mutter | die Mutter | **der** Mutter |
-| eine Mutter | eine Mutter | **einer** Mutter |
+| der | den | dem |
+| die | die | der |
+| das | das | dem |
+| die | die | den + n |
 
-## Neutral
+---
 
-| Nominativ | Akkusativ | Dativ |
-| --------- | --------- | ----- |
-| das Kind | das Kind | **dem** Kind |
-| ein Kind | ein Kind | **einem** Kind |
-
-## Plural
-
-| Wer oder Was? | Wen oder Was? | Wem? |
-| --------- | --------- | ----- |
-| Nominativ | Akkusativ | Dativ |
-| die Eltern | die Eltern | **den** Eltern |
+![Prepositions Akkusativ and Dativ](https://i.pinimg.com/originals/48/09/c1/4809c140883760c2d8868ea421ce80f1.png)
