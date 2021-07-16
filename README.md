@@ -81,3 +81,11 @@ https://courses.dcs.wisc.edu/wp/readinggerman/verbs-haben-and-sein/
 ## Negation with “nicht“ or “kein“
 ## Comparative and superlative
 ## Prepositions
+## Proverbs (Sprichwörter)
+
+https://www.dw.com/pt-br/prov%C3%A9rbios-alem%C3%A3es-ilustrados/g-18842081
+
+> Nun kann uns niemand an das Bein pinkeln.
+> Das ist mir Wurst.
+> Erzähl mir nichts vom Pferd.
+> Das Leben ist keine Ponyhof
