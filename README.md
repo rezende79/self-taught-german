@@ -15,9 +15,9 @@ The main resource for this self-taught german project is [A Foundation Course in
 which will guide the student throughout the German Grammar to enable it to be capable to translate texts from German to another language.
 
 ## Grammar Notes:
-[Articles](grammar-notes/articles.md)
-[Personal Pronouns](grammar-notes/pronoums.md#personal-pronouns)
-[Regular Verbs](grammar-notes/regular-verbs.md)
+- [Articles](grammar-notes/articles.md)
+- [Personal Pronouns](grammar-notes/pronoums.md#personal-pronouns)
+- [Regular Verbs](grammar-notes/regular-verbs.md)
 
 ## Translation Exercises:
-[Historischer Müll](translation-exercises/historischer-mull.md)
+- [Historischer Müll](translation-exercises/historischer-mull.md)
